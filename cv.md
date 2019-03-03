@@ -1,31 +1,32 @@
-#**Lomako Daria**
+#  **Lomako Daria**   
 
-**Address**:        Mazurov st. 20-17,  Minsk, Belarus
-**Telephone**:      +375 (29) 603-47-94
-**Email**:          lomakodasha@gmail.com
-**Github**:         [https://github.com/LomakoDasha](https://github.com/LomakoDasha)
 
-###**Career Objective**
-I want to start JavaScript Developer career.
+**Address**:        Mazurov st. 20-17,  Minsk, Belarus  
+**Telephone**:      +375 (29) 603-47-94  
+**Email**:          lomakodasha@gmail.com  
+**Github**:         [https://github.com/LomakoDasha](https://github.com/LomakoDasha)  
 
-###**Skills & Abilities**
- +Programming languages:
-   -Java
-   -JavaScript
-   -C/C++
- +HTML, CSS
- +Databases:
-   -SQL 
-   -PostgreSQL
- +English (_Intermediate_)
+### **Career Objective**    
+I want to start JavaScript Developer career.  
 
-###**Education**
-**2016-2020**
-Belarusian State University of Informatics and Radioelectronics(BSUIR)
-  Engineering economics department
-  Qualification: _programmer-economist_
+### **Skills & Abilities**  
+ + Programming languages:  
+   - Java  
+   - JavaScript  
+   - C/C++  
+ + HTML, CSS  
+ + Databases:  
+   - SQL   
+   - PostgreSQL  
+ + English ( _Intermediate_ )  
 
-###**Personal information**
-Status:  _Single_
-Date of Birth: _October 27, 1998_
-Hobbies: _drawing, tennis_
+### **Education**  
+ **2016-2020**  
+Belarusian State University of Informatics and Radioelectronics(BSUIR)  
+  Engineering economics department  
+  Qualification:  _programmer-economist_  
+
+### **Personal information**  
+Status:  _Single_  
+Date of Birth:  _October 27, 1998_  
+Hobbies:  _drawing, tennis_  
