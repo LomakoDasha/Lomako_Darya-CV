@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700|Raleway:400,700');
+
+header {
+    display: flex;
+    justify-content: center;
+    position: relative;
+  }
+
+.navigation{
+    height: 60px;
+    width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #376d64;
+    min-width: 1020px;
+  }
+
+.menu{
+    height: 50px;
+    position: absolute;
+    width: 1020px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 11px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu li{
+    margin-top: 8px;
+    margin-right: 30px;
+    list-style: none;
+}
+  
+.menu li:last-child{
+    margin-right: 15px;
+}
+
+  .link{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.info_about_me{
+    height: 463px;
+    width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #b4c8e8;
+    min-width: 1020px;
+}
+
+.my_photo {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    margin-top: -5px;
+    margin-left: 69px;
+}
+
+.my_contacts{
+    width: 575px;
+    height: 252px;
+    margin-top: 71px;
+    margin-right: 69px;
+    float: right;
+    background-color: #84d6b6;
+    border-radius: 15px;
+}
+
+.info_about_me h1{
+    padding-top: 34px;
+    padding-left: 462px;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.info_about_me p{
+    padding-top: 21px;
+    padding-left: 343px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.contast1_list{
+    float: left;
+    margin-top: 17px;
+    margin-left: 21px;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 13px;
+    padding-right: 42px;
+}
+
+.contast1_list li{
+    margin-top: 13px;
+    list-style: none;
+}
+
+.contast2_list{
+    float: center;
+    margin-top: 30px;
+    margin-left: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.contast2_list li{
+    margin-top: 13px;
+    list-style: none;
+}
+
+.skills{
+    height: 361px;
+    width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #5f93e8;
+    min-width: 1020px;
+}
+
+.skills h3{
+    padding-top: 21px;
+    padding-left: 413px;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.list_of_skills{
+    padding-top: 31px;
+    padding-left: 138px;
+}
+
+.list_of_skills li{
+    margin-top: 6px;
+}
+
+.list_of_skills li{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+}
+
+.list_of_skills span{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+ul li > span {
+    margin-left: 47px;
+}
+
+.education_info{
+    height: 185px;
+    width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #b4c8e8;
+    min-width: 1020px;
+}
+
+.article_about_education{
+    height: 185px;
+    width: 600px;
+    padding-left: 388px;
+    padding-top: 20px;
+}
+
+.article_about_education h3{
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.article_about_education h5{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    padding: 9px 35px;
+}
+
+.article_about_education p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.article_about_education span{
+    font-weight: 700;
+}
+
+.footer_part{
+    height: 20px;
+    width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #376d64;
+    min-width: 1020px;
+}
