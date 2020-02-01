@@ -1,86 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Resume</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="reset.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Resume</title>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <header>
-        <nav class="navigation">
-            <ul class="menu">
-                <li class="item"> <a class="link" href="#about_me">About me</a> </li>
-                <li class="item"><a class="link" href="#contacts">Contacts</a></li>
-                <li class="item"><a class="link" href="#my_skills">My skills </a></li>
-                <li class="item"><a class="link" href="#education">Education</a></li>
-            </ul>
-        </nav> 
-    </header>
-    <main>
-        <section id="about_me" class="info_about_me">
-            <h1>Lomako Daria</h1>
-            <p>Hello! My name is Dasha. I want to start JavaScript Developer career.</p>
-             <img class="my_photo" src="../rsschool-2019Q1-cv/accets/images/IMG_02900.JPG" alt="it is me">
+  <main class="main">
+    <section class="info-about-me">
+      <h2 class="info-about-me_h2">Hi there!</h2>
+      <h2 class="info-about-me_h2">My name is <span>Lomako Darya</span>. I am Frontend Developer!</h2>
+      <h2 class="info-about-me_h2">For more details about me look into my CV
+        <a href="./accets/docs/Lomako_Darya_CV_2020.docx">here</a>
+      </h2>
+    </section>
 
-            <article id="contacts" class="my_contacts">
-                    <ul class="contast1_list">
-                            <li>First name:</li>
-                             <li>Last name:</li>
-                            <li>Gender:</li>
-                            <li>Date of Birth:</li>
-                            <li>Address:</li>
-                            <li>Telephone:</li>
-                            <li>Email:</li>
-                            <li>Github:</li>
-                     </ul>
-                    <ul class="contast2_list">
-                            <li>Dasha</li>
-                            <li>Lomako</li>
-                            <li>female</li>
-                            <li>October 27, 1998</li>
-                            <li>Mazurov st. 20-17,  Minsk, Belarus</li>
-                            <li>+375 (29) 603-47-94</li>
-                            <li>lomakodasha@gmail.com</li>
-                            <li>https://github.com/LomakoDasha</li>
-                     </ul>
-            </article>
-        </section>
-        <section id="my_skills" class="skills">
-            <h3>Skills & Abilities</h3>
-            <ul class="list_of_skills">
-                <li>Programming languages:
-            <ul>
-                <li> <span>Java</span> </li>
-                <li> <span>JavaScript</span> </li>
-                <li><span>C/C++ </span></li>
-            </ul>
-                </li>
-                <li>HTML, CSS</li>
-                <li>Databases:  
-            <ul>
-                <li><span>MySQL</span></li>
-                <li><span>PostgreSQL</span></li>
-            </ul>
-                </li>
-                <li>English ( Intermediate )</li>
-            </ul>
-        </section>
-        <section id="education" class="education_info">
-            <article class="article_about_education">
-                    <h3>Education</h3>
-                    <h5>2016-2020</h5>
-                    <p><span>Belarusian State University of Informatics and Radioelectronics(BSUIR)</span> <br>  
-                            Engineering economics department  <br>
-                            <span>Qualification:</span>  programmer-economist </p>
-            </article>
-        </section>
+    <section class="about-me-contacts">
+      <img class="my_photo" src="./accets/images/my-photo.jpg" alt="Lomako Darya">
+      <div class="my_contacts">
+        <ul class="contast1_list">
+          <li>Telephone:</li>
+          <li>Email:</li>
+          <li>Telegram:</li>
+          <li>LinkedIn:</li>
+          <li>Github:</li>
+        </ul>
+        <ul class="contast2_list">
+          <li>+375 (29) 603-47-94</li>
+          <li>
+            <a  class="contact-link" href="mailto:lomakodasha@gmail.com">lomakodasha@gmail.com</a>
+          </li>
+          <li>@Lomako_Dasha</li>
+          <li>
+            <a class="contact-link" href="https://www.linkedin.com/in/lomako-darya/" target="_blank"
+              rel="noopener noreferrer">lomako-darya</a>
+          </li>
+          <li>
+            <a  class="contact-link" href="https://github.com/LomakoDasha" target="_blank"
+              rel="noopener noreferrer">https://github.com/LomakoDasha</a>
+          </li>
+        </ul>
+      </div>
 
-    </main>
-    <footer>
-         <section class="footer_part"></section>
-    </footer>
+    </section>
+  </main>
 </body>
+
 </html>

@@ -1,1 +1,1 @@
-[https://LomakoDasha.github.io/rsschool-2019Q1-cv/](https://LomakoDasha.github.io/rsschool-2019Q1-cv/)
+[https://LomakoDasha.github.io/Lomako_Darya-CV/](https://LomakoDasha.github.io/Lomako_Darya-CV/)
