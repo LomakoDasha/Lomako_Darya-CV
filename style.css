@@ -7,7 +7,7 @@
 }
 
 .info-about-me{
-  margin: 2%;
+  margin: 1% 1% 5% 1%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -79,8 +79,18 @@
 }
 
 @media only screen and (max-width: 480px) {
+  .main {
+    margin: 8% 10% 0 8%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .info-about-me_h2 {
+    font-size: 1.2em;
+  }
+
   .my_contacts{
-    min-width: 330px;
+    min-width: 340px;
   }
 
   .info-about-me{
@@ -90,12 +100,12 @@
   }
 
   .contast1_list{
-    padding: 0.3% 8% 0.3% 5%;
-    font-size: 0.8em;
+    padding: 0.3% 5% 0.3% 3%;
+    font-size: 0.75em;
   }
 
   .contast2_list{
     padding: 0.3%;
-    font-size: 0.8em;
+    font-size: 0.75em;
   }
 }
